@@ -1,9 +1,9 @@
 const questions = [
     {
-      question: "Which is the smallest continent in the world?",
+      question: "Which is the Largest continent in the world?",
       answers: [
-        { text: "Asia", correct: false },
-        { text: "Australia", correct: true },
+        { text: "Asia", correct: true },
+        { text: "Australia", correct: false },
         { text: "Arctic", correct: false },
         { text: "Africa", correct: false },
       ],
